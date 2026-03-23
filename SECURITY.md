@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability in any repository, please
 
 **Please do not report security vulnerabilities through public issues, discussions, or pull requests.**
 
-Instead, please send an email to contact[@]esau.com.mx
+Instead, please send an email to security[@]esau.com.mx
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
